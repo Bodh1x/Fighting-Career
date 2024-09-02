@@ -1,4 +1,4 @@
 {
-	"version": "1.2.0",
-	"changelog": "Rewritted to Lua, Bugs Fixed & better Sync"
+	"version": "1.2.5",
+	"changelog": "Way more configurable & Modificable learning method"
 }
